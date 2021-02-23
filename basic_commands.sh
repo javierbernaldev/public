@@ -1,4 +1,4 @@
 #!/bin/bash
-ls -l
-pwd
-whoami
+ls -l ..
+
+
